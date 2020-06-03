@@ -1,6 +1,6 @@
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
-CxFlowMasterPush-Test133333333333333333333333333333333333333333333333333333333333333333333
+CxFlowMasterPush-Test1333333333333333333333333333333333 1
 
 > ### Please note that The BodgeIt Store is no longer being worked on
 > #### You are strongly recommended to use [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) instead!
